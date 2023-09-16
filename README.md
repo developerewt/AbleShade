@@ -55,9 +55,7 @@ Contrast is the difference in luminance or perceived brightness between two colo
 
 The contrast ratio is a mathematical representation of the difference in brightness and color between the foreground (e.g., text) and background. It's calculated using the following formula:
 
-\[
-\text{Contrast Ratio} = \left( \frac{L1 + 0.05}{L2 + 0.05} \right)
-\]
+![Logo do AbleShade](assets/contrast_ratio_formula_black.png)
 
 Where:
 - \( L1 \) is the relative luminance of the lighter color.
