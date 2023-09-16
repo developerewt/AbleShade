@@ -25,6 +25,27 @@
 4. Click **Reload**.
 5. File > Preferences > Color Theme > **AbleShade**.
 
+## Recommended Fonts
+
+For an optimal coding experience with the AbleShade theme, we recommend using one of the following fonts:
+
+### Hack
+
+Hack is a typeface designed for source code. It is highly legible and helps make your code look both beautiful and clear. It's especially optimized for legibility at commonly-used source code text sizes.
+
+- [**GitHub Repository**](https://github.com/source-foundry/Hack)
+- [**Download Hack**](https://sourcefoundry.org/hack/)
+
+### Fira Code
+
+Fira Code is a free monospaced font containing ligatures for common programming multi-character combinations. It's an extension of the Fira Mono font family and introduces a great coding experience, especially if you enjoy ligatures in coding.
+
+- [**GitHub Repository**](https://github.com/tonsky/FiraCode)
+- [**Download Fira Code**](https://github.com/tonsky/FiraCode/releases/latest)
+
+We believe that using these fonts with the AbleShade theme will enhance your coding experience, offering both aesthetics and functionality.
+
+
 ## Understanding Contrast
 
 Contrast is the difference in luminance or perceived brightness between two colors. A higher contrast between text and its background makes the text more readable. This is especially crucial for users with visual impairments or color blindness.

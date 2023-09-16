@@ -5,6 +5,8 @@
 		"editor.background": "#2D2D2D",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#347dad",
+		"tab.activeBorderTop": "#ABABAB",
+		"tab.activeBackground": "#212121",
 		"sideBarTitle.foreground": "#cccccc",
 		"editorGroup.border": "#ABABAB",
         "panel.border": "#ABABAB",
