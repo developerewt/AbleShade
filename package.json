@@ -3,8 +3,8 @@
     "displayName": "AbleShade",
     "description": "A VS Code theme optimized for visual accessibility, designed specifically for users with visual impairments and color blindness.",
     "version": "0.0.1",
-    "publisher": "YourPublisherName",
-    "icon": "path-to-icon.png",
+    "publisher": "AbleShade",
+    "icon": "assets/logo.png",
     "license": "MIT",
     "keywords": ["theme", "accessibility", "color blindness", "visual impairment", "high contrast"],
     "repository": {

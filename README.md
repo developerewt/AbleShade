@@ -17,6 +17,8 @@
   
 - **Soft Visibility**: While maintaining high contrast ratios for clarity, the colors are intentionally subdued to reduce eye strain and provide a soothing coding environment.
 
+![Logo do AbleShade](assets/example.jpg)
+
 ## Installation:
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`.
@@ -44,7 +46,6 @@ Fira Code is a free monospaced font containing ligatures for common programming 
 - [**Download Fira Code**](https://github.com/tonsky/FiraCode/releases/latest)
 
 We believe that using these fonts with the AbleShade theme will enhance your coding experience, offering both aesthetics and functionality.
-
 
 ## Understanding Contrast
 
