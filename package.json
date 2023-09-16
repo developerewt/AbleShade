@@ -1,0 +1,33 @@
+{
+    "name": "ableshade",
+    "displayName": "AbleShade",
+    "description": "A VS Code theme optimized for visual accessibility, designed specifically for users with visual impairments and color blindness.",
+    "version": "0.0.1",
+    "publisher": "YourPublisherName",
+    "icon": "path-to-icon.png",
+    "license": "MIT",
+    "keywords": ["theme", "accessibility", "color blindness", "visual impairment", "high contrast"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/developerewt/AbleShade.git"
+    },
+    "bugs": {
+        "url": "https://github.com/developerewt/AbleShade/issues"
+    },
+    "homepage": "https://github.com/developerewt/AbleShade",
+    "engines": {
+        "vscode": "^1.82.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AbleShade",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AbleShade-color-theme.json"
+            }
+        ]
+    }
+}
